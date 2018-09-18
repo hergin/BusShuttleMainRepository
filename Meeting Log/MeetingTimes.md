@@ -11,4 +11,10 @@
 * Planned our official meeting for Monday or Wednesday
     *Update: Meeting time has been confirmed for Wed. Sept. 19th at 2:30pm
 
+### September 18th. 1:15pm to 1:45pm.
+* Continued Brainstorming topics to bring up with the client. 
+* Got information about Angular and how it makes creating an online app that works offline possible
+* We were informed that this may be a tablet end-product and that it must work in said offline conditions
+* Drew a rough sketch of what we might bring to the client. We also discussed that he may already have some ideas about what it should look like since this project was done last year as well. 
+* ![alt text](https://imgur.com/MJrwJVc "sketch")
 

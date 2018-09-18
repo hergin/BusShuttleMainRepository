@@ -16,5 +16,5 @@
 * Got information about Angular and how it makes creating an online app that works offline possible
 * We were informed that this may be a tablet end-product and that it must work in said offline conditions
 * Drew a rough sketch of what we might bring to the client. We also discussed that he may already have some ideas about what it should look like since this project was done last year as well. 
-* ![alt text](https://imgur.com/MJrwJVc "sketch")
+* ![Sketch](https://imgur.com/MJrwJVc "sketch")
 

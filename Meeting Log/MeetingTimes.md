@@ -1,6 +1,6 @@
 # Meeting Times/Dates
 
-### September 15th. 1pm to 1:45pm.
+### September 11th. 1pm to 1:45pm.
 * We discussed what mode of communication might be the best for our group and decided Slack would be a good option. We brainstormed a few questions that we might be able to ask Bruce to get a better idea on what he needs exactly. 
 * Gathered group availability
 * Scheduled another meeting before we sent the initial e-mail to our client

@@ -16,18 +16,18 @@
 * Got information about Angular and how it makes creating an online app that works offline possible
 * We were informed that this may be a tablet end-product and that it must work in said offline conditions
 * Drew a rough sketch of what we might bring to the client. We also discussed that he may already have some ideas about what it should look like since this project was done last year as well.
-* [Sketch](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/blob/master/Team_Notes_and_Documents/Sept_18_ClassMeeting.jpg)
+* [Sketch](.../Team_Notes_and_Files/Sept_18_ClassMeeting.jpg)
 
 ### CLIENT MEETING: September 19th. 2:30pm to 3:40pm.
 * The client first discussed what they wanted from the new system. They mentioned things about the previous attempt and even showed us the webpage that was used on the iPads in the buses. 
 * We asked the questions we had prepared for the meeting.
 * The client walked us through the process of inputting the data into excel spreadsheets to output the data in the format that they need. We witnessed first had how cumbersome the process can be. 
 * We talked about the process of how we will gather data and proceed in iterations.
-* [Link to documents gathered from meeting](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Team_Notes_and_Documents/Sept%2019th%20Client%20Meeting)
+* [Link to documents gathered from meeting](.../Team_Notes_and_Files/Sept%2019th%20Client%20Meeting)
 
 ### September 24th. 10:30am to 11:45am.
 * We discussed presentation material and made sure we can meet the criteria. 
 * Talked a little more about Angular and how it might help us to do some testing on our own before we dive into prototypes for the project. 
 * Came up with a few questions that we still need to ask our client about the project.
 * Drew some more sketches and uploaded the material to Github for future reference. 
-* [Associated Files](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Team_Notes_and_Files/Sept%2024th%20Group%20Meeting)
+* [Associated Files](.../Team_Notes_and_Files/Sept%2024th%20Group%20Meeting)

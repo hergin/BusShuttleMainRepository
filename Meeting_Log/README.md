@@ -1,11 +1,11 @@
 # Meeting Times/Dates
 
-### September 11th. 1pm to 1:45pm.
+### September 11th. 1:00pm to 1:45pm.
 * We discussed what mode of communication might be the best for our group and decided Slack would be a good option. We brainstormed a few questions that we might be able to ask Bruce to get a better idea on what he needs exactly. 
 * Gathered group availability
 * Scheduled another meeting before we sent the initial e-mail to our client
     
-### September 15th. 3pm to 5pm.
+### September 15th. 3:00pm to 5:00pm.
 * Brainstormed more questions that will help us get a better picture of the project
 * Outlined an e-mail that we will send to our client.
 * Planned our official meeting for Monday or Wednesday
@@ -31,3 +31,10 @@
 * Came up with a few questions that we still need to ask our client about the project.
 * Drew some more sketches and uploaded the material to Github for future reference. 
 * [Associated Files](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Team_Notes_and_Files/Sept%2024th%20Group%20Meeting)
+
+### September 27th. 07:00pm to 7:48pm.
+* Discussed a few things that we need to ask the professor regarding IT and how we can access the database. 
+* Came up with a game plan to stay ahead of the game and finish our requirements documents by collaborating over the weekend. 
+* Discussed Angular once more and how we should all attempt the quickstart guide on the website to familiarize ourselves with how it works and how we might implement it in the future. 
+* Spoke about prototypes 
+* [Associated Files](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Team_Notes_and_Files/Sept%2027th%20Group%20Meeting)

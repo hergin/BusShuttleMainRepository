@@ -38,3 +38,15 @@
 * Discussed Angular once more and how we should all attempt the quickstart guide on the website to familiarize ourselves with how it works and how we might implement it in the future. 
 * Spoke about prototypes 
 * [Associated Files](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Team_Notes_and_Files/Sept%2027th%20Group%20Meeting)
+
+### October 3rd. 02:00pm to 2:45pm.
+* Met with the professor regarding a few questions 
+* Spoke about switching from Angular to React. 
+
+### October 13th. 06:03pm to 6:56pm.
+* We had an online meeting where we gathered all of our data for the previous assignment and put it together. 
+* We shared our experiences with the getting started tutorials for angular and react. 
+
+### October 27th. 06:00pm to 8:48pm.
+* Discussed and worked on Domain Modeling assignment.
+* Continued talking about React and concearns any of us had. 

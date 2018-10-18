@@ -1,0 +1,108 @@
+Mobile
+Sync
+---------------------
+Form: Form
+----------------------
+manualSubmit(form: Form): void
+autoSubmit(form: Form): void
+storeData(form: Form): void
+checkForStoredData(): void
+
+
+
+Connection
+----------------------
+currentlyConnected: boolean
+----------------------
+checkConnection():boolean
+connect(): void
+
+
+
+Form
+---------------------
+driver: String
+time: int[]
+date: date
+loopID: id
+stopID: int
+count: int
+someoneLeft: boolean
+---------------------
+Form(driver: String, time: int[], date: date, loopID: id, stopID: int, count: int, someoneLeft: boolean)
+
+
+
+
+Desktop
+
+Export
+---------------------
+
+---------------------
+convertToCSV():void
+saveToFile():void
+
+Driver
+---------------------
+driverName: String
+driverNumber: int
+---------------------
+updateDriverName(name: String):void
+updateDriverNumber(number: int):void
+getDriverName(name: String):String
+getDriverNumber(number: int):int
+
+User
+---------------------
+userName: String
+userID: int
+---------------------
+updateUserName(name: String):void
+updateUserNumber(number: int):void
+getUserName(name: String):String
+getUserNumber(number: int):int
+
+
+AdminSignIn
+----------------------
+usernames:String[]
+hashedPasswords:String[]
+----------------------
+submitCredentials()
+checkCredentials(username, password):boolean
+
+
+
+Loop
+-------------------
+loopID: int
+loopName: String
+
+-------------------
+Loop(loopID: int, loopName: String, route: Route)
+updateLoop():void
+deleteLoop(LoopID:int):void
+
+
+Stop
+---------------------
+stopID: int
+stopShortHand: String
+stopName: String
+stopDescription: String
+--------------------
+Stop(stopID: String, stopShortHand: String, stopName: String, stopDescription: String)
+updateStop():void
+deleteStop(StopID:int):void
+
+Route
+--------------------
+routeID: int
+routeName: String
+stops: Stop[]
+--------------------
+Route(routeID: int, routeName:String, stops: Stop[])
+getStops():Stop[]
+updateRoute():void
+deleteRoute(routeID:int):void

@@ -47,6 +47,6 @@
 * We had an online meeting where we gathered all of our data for the previous assignment and put it together. 
 * We shared our experiences with the getting started tutorials for angular and react. 
 
-### October 27th. 06:00pm to 8:48pm.
+### October 16th. 06:00pm to 8:48pm.
 * Discussed and worked on Domain Modeling assignment.
 * Continued talking about React and concearns any of us had. 

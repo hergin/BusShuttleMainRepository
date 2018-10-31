@@ -64,4 +64,4 @@
 * Discussed the documentation that we have right now as well as anything we added/improved. 
 * Verified that the client didn't have any questions for us at this time. 
 * Continued researching ways to create a prograssive, offline application. 
-
+* [Associated Files](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Team_Notes_and_Files/Oct_31st_Group_Meeting/)

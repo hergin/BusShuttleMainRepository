@@ -50,3 +50,18 @@
 ### October 16th. 06:00pm to 8:48pm.
 * Discussed and worked on Domain Modeling assignment.
 * Continued talking about React and concearns any of us had. 
+
+### CLIENT MEETING: October 24th. 01:57pm to 3:20pm.
+* Showed Bruce the domain model and the assosiated files to go with it. 
+* We asked Bruce about the questions we had after our first meeting, to clear anything up.
+* Discussed the documentation that we have right now as well as anything we added/improved. 
+* Verified that the client didn't have any questions for us at this time. 
+* Continued researching ways to create a prograssive, offline application. 
+
+### October 31st. 02:59pm to 3:57pm.
+* Showed Bruce the domain model and the assosiated files to go with it. 
+* We asked Bruce about the questions we had after our first meeting, to clear anything up.
+* Discussed the documentation that we have right now as well as anything we added/improved. 
+* Verified that the client didn't have any questions for us at this time. 
+* Continued researching ways to create a prograssive, offline application. 
+

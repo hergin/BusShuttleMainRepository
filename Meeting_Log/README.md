@@ -66,7 +66,7 @@
 * Continued researching ways to create a prograssive, offline application. 
 * [Associated Files](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Team_Notes_and_Files/Oct_31st_Group_Meeting/)
 
-### November 10th: 4:00pm to 
+### November 10th: 4:00pm to 5:41pm
 * We discussed the feasibility of using Reactjs.
 * We decided that we wanted to do more research into Angularjs.
 * We decided that we would prefer to use Angularjs over Reactjs.

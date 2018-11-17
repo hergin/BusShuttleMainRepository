@@ -75,3 +75,9 @@
 * We decided to use MySQL with MySQL Workbench.
 * Design has been started on the MySQL database.
 * We are going to do more research and tutorials for Angularjs before our next meeting.
+
+### November 17th: 10:30am to 12:00pm
+* We ran through a tutorial online as a group https://phpenthusiast.com/blog/develop-angular-php-app-getting-the-list-of-items
+* We discussed different ways to implement a service-worker in Angular to handle offline
+* Continued working on and talked about the prototype.
+* Set goal dates and e-mailed Bruce for a meeting. 

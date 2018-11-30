@@ -25,8 +25,8 @@ Email: rbpiner@bsu.edu
 
 ### Useful Project Links
 
-[Meeting Log](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Meeting_Log)
-[November Presentation](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Team_Notes_and_Files/Nov_26th_Client_Meeting/Presentaion_Nov.pptx)
+* [Meeting Log](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Meeting_Log)
+* [November Presentation](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Team_Notes_and_Files/Nov_26th_Client_Meeting/Presentation_Nov.pptx)
 
 ### Links to Other Repositories
 

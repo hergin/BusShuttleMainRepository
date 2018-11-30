@@ -80,4 +80,17 @@
 * We ran through a tutorial online as a group https://phpenthusiast.com/blog/develop-angular-php-app-getting-the-list-of-items
 * We discussed different ways to implement a service-worker in Angular to handle offline
 * Continued working on and talked about the prototype.
-* Set goal dates and e-mailed Bruce for a meeting. 
+* Set goal dates and e-mailed Bruce for a meeting.
+
+### November 19th: 4:00pm to 4:24pm
+* Online meeting. We created a to-do list and what our next step is.
+* We decided officially that we will be going with Angular.
+* Set a date on when we should have the SQL schema complete.
+* Backend API will be our first focus.
+
+### CLIENT MEETING: November 26th: 2:30pm to 2:54pm
+* Showed Bruce our prototypes for the front and back end.
+* We explained that we've been trying to get familar with the tools so didn't have much to look at.
+* Bruce introduced more requirements that are low priority(don't have to do it if we don't have time).
+* After the meeting, we think that the desktop user interface doesn't have to be written in angular since it doesn't need to have a way to index data in an offline state to be sent in an online state.
+* [Associated Files](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Team_Notes_and_Files/Nov_26th_Client_Meeting/)

@@ -99,4 +99,5 @@
 * Brief in class discussion on what our next steps are.
 * Files attatched below show details on our plan for next semester.
 * Discuss progress on our database design
-* We will also be updating our requirements documents in our next meeting if all things go as planned. 
+* We will also be updating our requirements documents in our next meeting if all things go as planned.
+* [Associated Files](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Team_Notes_and_Files/Dec_6th_Group_Meeting/)

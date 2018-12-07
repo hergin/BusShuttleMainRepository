@@ -94,3 +94,9 @@
 * Bruce introduced more requirements that are low priority(don't have to do it if we don't have time).
 * After the meeting, we think that the desktop user interface doesn't have to be written in angular since it doesn't need to have a way to index data in an offline state to be sent in an online state.
 * [Associated Files](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Team_Notes_and_Files/Nov_26th_Client_Meeting/)
+
+### December 6th: 1:30pm to 1:45pm
+* Brief in class discussion on what our next steps are.
+* Files attatched below show details on our plan for next semester.
+* Discuss progress on our database design
+* We will also be updating our requirements documents in our next meeting if all things go as planned. 

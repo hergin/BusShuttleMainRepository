@@ -101,3 +101,12 @@
 * Discuss progress on our database design
 * We will also be updating our requirements documents in our next meeting if all things go as planned.
 * [Associated Files](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Team_Notes_and_Files/Dec_6th_Group_Meeting/)
+
+### January 6th: 3:00pm to 4:30pm
+* Start creating semester plan
+* Get reacquainted with what we need to do. 
+* Talk about things we did over break.
+* Discuss Github and the milestones
+* Assigned our next step so we’re all on the same page. 
+* Discussed the workbox and the possibility of switching to a different technology. 
+* Roughly mapped out our new schema. We will update our current documentation to reflect the changes and improvements. 

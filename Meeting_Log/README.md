@@ -1,5 +1,12 @@
 # Meeting Dates/Times - Reverse Chronological 
 
+### January 22nd: 4:10pm to 5:45pm
+* Discussed the Student sympossium and any arrangements that might have to be made in order to attend. 
+* Worked on adding buttons to the Mobile-front end
+* Worked on adding a retry functionality to the form to compensate for unstable connections.
+* Started our powerpoint for thursday's presentation.
+* E-mailed Bruce to schedule a meeting before thursday.
+
 ### January 16th: 4:00pm to 4:45pm
 * Discussed our current implementation with our professor. Decided to stick with Angular
 * Refactored and cleaned the source code repository to simplify group development. 
@@ -118,47 +125,3 @@
 * We discussed what mode of communication might be the best for our group and decided Slack would be a good option. We brainstormed a few questions that we might be able to ask Bruce to get a better idea on what he needs exactly. 
 * Gathered group availability
 * Scheduled another meeting before we sent the initial e-mail to our client
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

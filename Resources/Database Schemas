@@ -1,0 +1,21 @@
+This is the current set up of our database.
+
+forms
+|formID      |driverName |loopID |stopID |passengersOn |passengersLeft |
+|int         |char(25)   |int    |int    |int          |boolean        |
+|primary key |           |       |       |             |               |
+
+loops
+|loopID      |loopName   |
+|int         |char(25)   |
+|primary key |           |
+
+stops
+|stopsID     |abreviation|stopName |stopDescription |
+|int         |char(10)   |char(25) |varChar(125)    |
+|primary key |           |         |                |
+
+loops_stops
+|loopID      |stopID     |
+|int         |int        |
+|foreign key |foreign key|

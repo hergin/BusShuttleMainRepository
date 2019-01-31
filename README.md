@@ -16,20 +16,19 @@ Title: Supervisor of Bus Operations at Ball State University, Transportation and
 
 Email: rbpiner@bsu.edu
 
+### Links to Other Repositories
+
+* [Front-End Driver Interface](https://github.com/kdesimini/ShuttleLogCollectionSystemSourceCode/tree/Front-End)
+* [Back-End API](https://github.com/kdesimini/ShuttleLogCollectionSystemAPI)
+* [Front-End Desktop Interface](https://github.com/kdesimini/ShuttleLogCollectionSystemDesktopInterface)
+
 ### Team Members
 
 * [Taneia Reed](mailto:trreed2@bsu.edu)
 * [Taylor Slusher](mailto:twslusher@bsu.edu)
 * [Keith DeSimini](mailto:kdesimini@bsu.edu)
 
-
 ### Useful Project Links
 
 * [Meeting Log](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Meeting_Log)
 * [November Presentation](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Team_Notes_and_Files/Nov_26th_Client_Meeting/Presentation_Nov.pptx)
-
-
-### Links to Other Repositories
-
-* [Front-End Source Code Branch](https://github.com/kdesimini/ShuttleLogCollectionSystemSourceCode/tree/Front-End)
-* [Back-End API Source Code](https://github.com/kdesimini/ShuttleLogCollectionSystemAPI)

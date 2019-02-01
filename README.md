@@ -16,6 +16,9 @@ Title: Supervisor of Bus Operations at Ball State University, Transportation and
 
 Email: rbpiner@bsu.edu
 
+### Releases
+* Front-End Driver Interface [Release #1](https://github.com/kdesimini/ShuttleLogCollectionSystemSourceCode/releases/tag/v1.0)
+
 ### Links to Other Repositories
 
 * [Front-End Driver Interface](https://github.com/kdesimini/ShuttleLogCollectionSystemSourceCode/tree/Front-End)

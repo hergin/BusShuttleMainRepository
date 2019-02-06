@@ -45,7 +45,7 @@ Email: rbpiner@bsu.edu
         <br>
         <a href="mailto:twslusher@bsu.edu">Taylor Slusher</a>
       </td>
-      <td align="center" width="20%" valign="top">
+      <td align="center" valign="top">
         <img width="100" height="100" src="https://github.com/kdesimini.png?s=150">
         <br>
         <a href="mailto:kdesimini@bsu.edu">Keith DeSimini</a>

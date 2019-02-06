@@ -16,8 +16,10 @@ Title: Supervisor of Bus Operations at Ball State University, Transportation and
 
 Email: rbpiner@bsu.edu
 
-### Releases
-* Front-End Driver Interface [Release #1](https://github.com/kdesimini/ShuttleLogCollectionSystemSourceCode/releases/tag/v1.0)
+### Useful Project Links
+
+* [Meeting Log](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Meeting_Log)
+* [Presentations](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Presentations)
 
 ### Links to Other Repositories
 
@@ -25,13 +27,32 @@ Email: rbpiner@bsu.edu
 * [Back-End API](https://github.com/kdesimini/ShuttleLogCollectionSystemAPI)
 * [Front-End Desktop Interface](https://github.com/kdesimini/ShuttleLogCollectionSystemDesktopInterface)
 
-### Team Members
+### Releases
+* Front-End Driver Interface [Release #1](https://github.com/kdesimini/ShuttleLogCollectionSystemSourceCode/releases/tag/v1.0)
 
-* [Taneia Reed](mailto:trreed2@bsu.edu)
-* [Taylor Slusher](mailto:twslusher@bsu.edu)
-* [Keith DeSimini](mailto:kdesimini@bsu.edu)
+<h2>The Team</h2>
 
-### Useful Project Links
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <img width="100" height="100" src="https://github.com/trreed2.png?s=150">
+        <br>
+        <a href="mailto:trreed2@bsu.edu">Taneia Reed</a>
+      </td>
+      <td align="center" valign="top">
+        <img width="100" height="100" src="https://github.com/twslusher.png?s=150">
+        <br>
+        <a href="mailto:twslusher@bsu.edu">Taylor Slusher</a>
+      </td>
+      <td align="center" width="20%" valign="top">
+        <img width="100" height="100" src="https://github.com/kdesimini.png?s=150">
+        <br>
+        <a href="mailto:kdesimini@bsu.edu">Keith DeSimini</a>
+      </td>
+     </tr>
+  </tbody>
+</table>
 
-* [Meeting Log](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Meeting_Log)
-* [Presentations](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Presentations)
+
+

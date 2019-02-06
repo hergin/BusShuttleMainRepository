@@ -33,25 +33,31 @@ Email: rbpiner@bsu.edu
 <h2>The Team</h2>
 
 <table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/trreed2.png?s=150">
-        <br>
-        <a href="mailto:trreed2@bsu.edu">Taneia Reed</a>
-      </td>
-      <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/twslusher.png?s=150">
-        <br>
-        <a href="mailto:twslusher@bsu.edu">Taylor Slusher</a>
-      </td>
-      <td align="center" valign="top">
-        <img width="100" height="100" src="https://github.com/kdesimini.png?s=150">
-        <br>
-        <a href="mailto:kdesimini@bsu.edu">Keith DeSimini</a>
-      </td>
-     </tr>
-  </tbody>
+	<tbody>
+		<tr>
+			<td align="center" valign="top">
+				<a href="https://github.com/trreed2">
+					<img width="100" height="100" src="https://github.com/trreed2.png?s=150">
+				</a>
+				<br>
+				<a href="mailto:trreed2@bsu.edu">Taneia Reed</a>
+			</td>
+			<td align="center" valign="top">
+				<a href="https://github.com/twslusher">
+					<img width="100" height="100" src="https://github.com/twslusher.png?s=150">
+				</a>
+				<br>
+				<a href="mailto:twslusher@bsu.edu">Taylor Slusher</a>
+			</td>
+			<td align="center" valign="top">
+				<a href="https://github.com/kdesimini">
+					<img width="100" height="100" src="https://github.com/kdesimini.png?s=150">
+				</a>
+				<br>
+				<a href="mailto:kdesimini@bsu.edu">Keith DeSimini</a>
+			</td>
+		</tr>
+	</tbody>
 </table>
 
 

@@ -1,3 +1,4 @@
+
 # Bus Shuttle Log Collection System
 
 The department of Transportation and Facilities Management wants to create a centralized system that will create and manage the logs created by shuttle-bus drivers on campus. These drivers currently write the data onto paper and then digitize this information on a computer at a later time. This new system should also represent the data to a supervisor in a useful way.
@@ -71,12 +72,11 @@ Email: rbpiner@bsu.edu
 				</a>
 				<br>
 				<a href="https://github.com/cornflourblue">Jason Watmore</a>
-				<br>
-				<p>Authentication System</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-
-
+---
+This software includes third party open source software components: Authentication System. Each of these software components have their own license. 
+- Angular 7 JWT Authentication [LICENSE.txt](https://github.com/cornflourblue/angular-7-jwt-authentication-example/blob/master/LICENSE)

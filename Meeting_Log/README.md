@@ -1,5 +1,20 @@
 # Meeting Dates/Times - Reverse Chronological 
 
+### February 6th: 4:00pm to 4:45pm
+
+* Made a plan for this next iteration.
+* Continued communications with Bruce.
+* Discussed plans for the office front end.
+* Assigned responsibility for the Office Front End
+
+### February 1st: 4:00pm to 4:45pm
+
+* Finished PowerPoint (without the client meeting).
+* Continued communications with Bruce to set up the client meeting.
+* Planned how we will present our project to Bruce.
+* Ensured everyone was comfortable with both of the presentations.
+
+
 ### January 22nd: 4:10pm to 5:45pm
 * Discussed the Student sympossium and any arrangements that might have to be made in order to attend. 
 * Worked on adding buttons to the Mobile-front end

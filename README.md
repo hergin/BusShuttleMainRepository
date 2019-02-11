@@ -71,6 +71,8 @@ Email: rbpiner@bsu.edu
 				</a>
 				<br>
 				<a href="https://github.com/cornflourblue">Jason Watmore</a>
+				<br>
+				<p>Authentication System</p>
 			</td>
 		</tr>
 	</tbody>

@@ -60,5 +60,21 @@ Email: rbpiner@bsu.edu
 	</tbody>
 </table>
 
+<h2>Special Thanks</h2>
+
+<table>
+	<tbody>
+		<tr>
+			<td align="center" valign="top">
+				<a href="https://github.com/cornflourblue">
+					<img width="100" height="100" src="https://github.com/cornflourblue.png?s=150">
+				</a>
+				<br>
+				<a href="https://github.com/cornflourblue">Jason Watmore</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 
 

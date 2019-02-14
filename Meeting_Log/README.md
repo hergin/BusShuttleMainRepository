@@ -1,5 +1,19 @@
 # Meeting Dates/Times - Reverse Chronological 
 
+## ITERATION 1 CLIENT MEETING: February 15th: 3:30pm to INSERT TIME
+* 
+* 
+* 
+* 
+* [Associated Files](#)
+
+### February 13th: 4:10pm to 4:56pm
+
+* Walked through our current source code to catch everyone up.
+* Discussed the Desktop Interface and what direction we should take it. We focused on usability and how intuitive it should be.
+* Shared information regarding development servers and backendless development. 
+* Discussed the importance of getting your own work done on time to ensure the entire team doesn't fail. 
+
 ### February 6th: 4:00pm to 4:45pm
 
 * Made a plan for this next iteration.
@@ -46,7 +60,7 @@
 * We will also be updating our requirements documents in our next meeting if all things go as planned.
 * [Associated Files](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Team_Notes_and_Files/Dec_6th_Group_Meeting/)
 
-### CLIENT MEETING: November 26th: 2:30pm to 2:54pm
+## CLIENT MEETING: November 26th: 2:30pm to 2:54pm
 * Showed Bruce our prototypes for the front and back end.
 * We explained that we've been trying to get familar with the tools so didn't have much to look at.
 * Bruce introduced more requirements that are low priority(don't have to do it if we don't have time).
@@ -83,7 +97,7 @@
 * Continued researching ways to create a prograssive, offline application. 
 * [Associated Files](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Team_Notes_and_Files/Oct_31st_Group_Meeting/)
 
-### CLIENT MEETING: October 24th. 01:57pm to 3:20pm.
+## CLIENT MEETING: October 24th. 01:57pm to 3:20pm.
 * Showed Bruce the domain model and the assosiated files to go with it. 
 * We asked Bruce about the questions we had after our first meeting, to clear anything up.
 * Discussed the documentation that we have right now as well as anything we added/improved. 
@@ -116,7 +130,7 @@
 * Drew some more sketches and uploaded the material to Github for future reference. 
 * [Associated Files](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Team_Notes_and_Files/Sept%2024th%20Group%20Meeting)
 
-### CLIENT MEETING: September 19th. 2:30pm to 3:40pm.
+## CLIENT MEETING: September 19th. 2:30pm to 3:40pm.
 * The client first discussed what they wanted from the new system. They mentioned things about the previous attempt and even showed us the webpage that was used on the iPads in the buses. 
 * We asked the questions we had prepared for the meeting.
 * The client walked us through the process of inputting the data into excel spreadsheets to output the data in the format that they need. We witnessed first had how cumbersome the process can be. 

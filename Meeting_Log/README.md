@@ -1,5 +1,13 @@
 # Meeting Dates/Times - Reverse Chronological 
 
+### February 18th: 11:00pm to 11:35pm
+* Decided on using Bootstrap.
+* Decided on breaking the Desktop system into pages.
+* Four initial pages: Managing stops, managing users, managing entries, managing loops.
+* Page assignment: Taylor: Loops Keith: Entries Taneia: Users. 
+* Stops will be decided as other pages are completed.
+* considering using JQueryTable edit.
+
 ## ITERATION 1 CLIENT MEETING: February 15th: 3:30pm to 4:15
 * We started the meeting with a demo of the Driver app.
 * We taught them how to use it and displayed the offline functionality.

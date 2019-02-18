@@ -5,7 +5,7 @@
 * We taught them how to use it and displayed the offline functionality.
 * After showing them on a computer, they wanted to try it with one of their iPads.
 * Having them use the app brought us a lot of insight into how it will be used and brought a few bugs to our attention.
-* They want us to change the facct that the driver would enter in their name to selecting their name from a drop down
+* They want us to change the fact that the driver would enter in their name to selecting their name from a drop down
   menu that can be edited by an admin.
 * They offered to let us take an iPad with us so that we can test with their device.
 * We came to the conclusion that we need to do some bug fixing before testing on a bus.

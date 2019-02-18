@@ -1,10 +1,19 @@
 # Meeting Dates/Times - Reverse Chronological 
 
-## ITERATION 1 CLIENT MEETING: February 15th: 3:30pm to INSERT TIME
-* 
-* 
-* 
-* 
+## ITERATION 1 CLIENT MEETING: February 15th: 3:30pm to 4:15
+* We started the meeting with a demo of the Driver app.
+* We taught them how to use it and displayed the offline functionality.
+* After showing them on a computer, they wanted to try it with one of their iPads.
+* Having them use the app brought us a lot of insight into how it will be used and brought a few bugs to our attention.
+* They want us to change the facct that the driver would enter in their name to selecting their name from a drop down
+  menu that can be edited by an admin.
+* They offered to let us take an iPad with us so that we can test with their device.
+* We came to the conclusion that we need to do some bug fixing before testing on a bus.
+* We were told that when we were ready to test on a bus to call Bruce, and he would set us up with a trusted driver.
+* They want the desktop system to have an option to look at the hourly breakdown of stops.
+* They would like the Driver system to autoselect the next stop.
+* They want us to consider having the loop selection changed to a seperate page, because buses rarely change loops.
+* They want us to consider other options for selecting the amount of people getting on the bus for easier use.
 * [Associated Files](#)
 
 ### February 13th: 4:10pm to 4:56pm

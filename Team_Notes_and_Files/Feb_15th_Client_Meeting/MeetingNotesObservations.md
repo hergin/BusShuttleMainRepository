@@ -1,0 +1,14 @@
+Client suggestions and observations while using the driver app.
+- Show where buses were at, and at what time.
+- look at loo & stop
+- have an hourly breakdown of how many people were picked up at what time
+- keyboard doesn't go away easily
+- double tapping the plus button zooms
+- clicking the boarded number brings up keyboard
+- baseball 1 and baseball 2
+- normandy apartments
+- autoselect the next stop
+- Adding a form without a stop doesn't push after typing in numbers. it may have cleared the stop selection
+- stops sending data
+- maybe use a scroll down bar or dial button for amount of passengers
+- seperate the loop to a different page (maybe have a change loop button?)

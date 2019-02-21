@@ -83,5 +83,5 @@ Email: rbpiner@bsu.edu
 This software includes third party open source software components: Authentication System. Each of these software components have their own license.
 - Angular 7 JWT Authentication [LICENSE.txt](https://github.com/cornflourblue/angular-7-jwt-authentication-example/blob/master/LICENSE)
 
-[travis-url]: https://travis-ci.org/kdesimini/ShuttleLogCollectionSystemSourceCode/
+[travis-url]: https://travis-ci.org/kdesimini/ShuttleLogCollectionSystemSourceCode
 [travis-image]: https://travis-ci.com/kdesimini/ShuttleLogCollectionSystemSourceCode.svg?

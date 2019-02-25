@@ -1,7 +1,14 @@
 # Meeting Dates/Times - Reverse Chronological 
 
+### February 20th: 4:00pm to 7:10pm
+* Pair programmed a good portion of the Desktop interface
+* Planned out a clean design for the desktop interface
+* Refactored and Restructured code for the Desktop Interface and Driver Interface
+* Prepared for meeting with the client on monday. 
+* Still working on a solution for generating reports for the client.
+
 ### February 18th: 11:00pm to 11:35pm
-* Decided on using Bootstrap.
+* Decided on using Bootstrap for Desktop Interface.
 * Decided on breaking the Desktop system into pages.
 * Four initial pages: Managing stops, managing users, managing entries, managing loops.
 * Page assignment: Taylor: Loops Keith: Entries Taneia: Users. 

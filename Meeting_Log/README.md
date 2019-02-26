@@ -1,7 +1,19 @@
 # Meeting Dates/Times - Reverse Chronological 
 
 ## ITERATION 2 CLIENT MEETING: February 25th: 3:30pm to ...
-* ...
+* We started the meeting with a demo of the Desktop Dashboard.
+* They really liked the simplicity of it.
+* While demoing, we found that editing an entry it resets the count to zero for that entry.
+* Afterwards we demoed the Driver Logging system.
+* They want us to include the bus number in the Driver Logging system and database.
+* Keith discussed his experience with using our system on a bus loop using their iPad, specifically the lack of internet access.
+* They discussed amongst themselves the possibility of adding mobile wifi hotspots to the buses.
+* They would like the "Add" button changed to say something else.
+* They want the name of the "Configure" button changed.
+* We disccussed the possibility of changing the location of the loops, drivers, and stops drop downs.
+* We discussed a change to the sign in system.
+* When signing in we may ask "Who are you?", "What loop are you on?", and then "What is your bus number?".
+
 * [Associated Files](#)
 
 ## February 20th: 4:00pm to 7:10pm

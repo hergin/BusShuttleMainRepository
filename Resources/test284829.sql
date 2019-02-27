@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: data.mildvariety.club
--- Generation Time: Feb 27, 2019 at 12:33 PM
+-- Generation Time: Feb 27, 2019 at 12:43 PM
 -- Server version: 5.6.34-log
 -- PHP Version: 7.1.22
 
@@ -21,6 +21,18 @@ SET time_zone = "+00:00";
 --
 -- Database: `test284829`
 --
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `buses`
+--
+
+DROP TABLE IF EXISTS `buses`;
+CREATE TABLE `buses` (
+  `busIdentifier` varchar(32) NOT NULL,
+  `id` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 -- --------------------------------------------------------
 
@@ -1107,9 +1119,215 @@ INSERT INTO `Entries` (`boarded`, `stop`, `timestamp`, `date`, `loop`, `driver`,
 (0, 'South stop', '2019-02-26 10:24:23', '2019-02-26', 'Purple Loop', 'John Stevens', 1324, 0, '0'),
 (0, 'north stop', '2019-02-26 10:24:36', '2019-02-26', 'Purple Loop', 'John Stevens', 1325, 0, '0');
 
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `loops`
+--
+
+DROP TABLE IF EXISTS `loops`;
+CREATE TABLE `loops` (
+  `loops` varchar(64) NOT NULL,
+  `id` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- Dumping data for table `loops`
+--
+
+INSERT INTO `loops` (`loops`, `id`) VALUES
+('Red Loop', 2),
+('Blue Loop', 3),
+('Orange Loop', 4),
+('Demand Response', 5),
+('Sunday Orange', 14),
+('Green Loop', 29),
+('Test Loop', 35),
+('Purple Loop', 36);
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `stops`
+--
+
+DROP TABLE IF EXISTS `stops`;
+CREATE TABLE `stops` (
+  `stops` varchar(32) NOT NULL,
+  `loops` varchar(256) NOT NULL,
+  `displayOrder` int(11) NOT NULL,
+  `id` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- Dumping data for table `stops`
+--
+
+INSERT INTO `stops` (`stops`, `loops`, `displayOrder`, `id`) VALUES
+('SR-1', 'Green Loop', 1, 20),
+('SR-2', 'Green Loop', 2, 21),
+('SR-3', 'Green Loop', 3, 22),
+('Baseball #1', 'Green Loop', 4, 23),
+('Anthony S-B', 'Green Loop', 5, 24),
+('LaFollette S-B', 'Green Loop', 6, 25),
+('AJ', 'Green Loop', 8, 26),
+('Burkhardt', 'Green Loop', 9, 27),
+('South Shelter', 'Green Loop', 10, 28),
+('Ashland', 'Green Loop', 11, 29),
+('Music', 'Green Loop', 12, 30),
+('Shaffer Tower N-B', 'Green Loop', 13, 31),
+('LaFollette N-B', 'Green Loop', 14, 32),
+('North Shelter', 'Green Loop', 15, 33),
+('Anthony N-B', 'Green Loop', 16, 34),
+('Alumni', 'Green Loop', 17, 35),
+('Shaffer Tower S-B', 'Green Loop', 7, 36),
+('North Shelter S-B', 'Red Loop', 1, 37),
+('LaFollette S-B', 'Red Loop', 2, 38),
+('Shaffer Tower S-B', 'Red Loop', 3, 39),
+('AJ', 'Red Loop', 4, 40),
+('Burkhardt', 'Red Loop', 5, 41),
+('South Shelter', 'Red Loop', 6, 42),
+('Ashland', 'Red Loop', 7, 43),
+('Music', 'Red Loop', 8, 44),
+('Shaffer Tower N-B', 'Red Loop', 9, 45),
+('LaFollette N-B', 'Red Loop', 10, 46),
+('Stu West', 'Blue Loop', 1, 47),
+('Neely & Linden St', 'Blue Loop', 2, 48),
+('Linden & Wayne St', 'Blue Loop', 3, 49),
+('Linden & Riverside', 'Blue Loop', 4, 50),
+('New York & Riverside', 'Blue Loop', 5, 51),
+('Emens', 'Blue Loop', 6, 52),
+('Music', 'Blue Loop', 7, 53),
+('Shaffer Tower N-B', 'Blue Loop', 8, 54),
+('Oakwood Bldg', 'Orange Loop', 1, 55),
+('Baseball #2', 'Orange Loop', 2, 56),
+('Baseball #1', 'Orange Loop', 3, 57),
+('Anthony S-B', 'Orange Loop', 4, 58),
+('LaFollette S-B', 'Orange Loop', 5, 59),
+('Shaffer Tower S-B', 'Orange Loop', 6, 60),
+('AJ', 'Orange Loop', 7, 61),
+('Burkhardt', 'Orange Loop', 8, 62),
+('South Shelter', 'Orange Loop', 9, 63),
+('Ashland', 'Orange Loop', 10, 64),
+('Music', 'Orange Loop', 11, 65),
+('Shaffer Tower N-B', 'Orange Loop', 12, 66),
+('LaFollette N-B', 'Orange Loop', 13, 67),
+('North Shelter', 'Orange Loop', 14, 68),
+('Anthony N-B', 'Orange Loop', 15, 69),
+('Oakwood Bldg', 'Sunday Orange', 1, 70),
+('Baseball #2', 'Sunday Orange', 2, 71),
+('Baseball #1', 'Sunday Orange', 3, 72),
+('Stadium', 'Sunday Orange', 4, 73),
+('Anthony S-B', 'Sunday Orange', 5, 74),
+('LaFollette S-B', 'Sunday Orange', 6, 75),
+('Shaffer Tower S-B', 'Sunday Orange', 7, 76),
+('AJ', 'Sunday Orange', 8, 77),
+('Burkhardt', 'Sunday Orange', 9, 78),
+('South Shelter', 'Sunday Orange', 10, 79),
+('Ashland', 'Sunday Orange', 11, 80),
+('Music', 'Sunday Orange', 12, 81),
+('Shaffer Tower N-B', 'Sunday Orange', 13, 82),
+('LaFollette N-B', 'Sunday Orange', 14, 83),
+('North Shelter', 'Sunday Orange', 15, 84),
+('Anthony N-B', 'Sunday Orange', 16, 85),
+('Architecture', 'Demand Response', 1, 86),
+('Arts & Comm', 'Demand Response', 2, 87),
+('Art & Journalism', 'Demand Response', 3, 88),
+('Anthony Apts', 'Demand Response', 4, 89),
+('Fine Arts Museum', 'Demand Response', 5, 90),
+('Applied Tech', 'Demand Response', 6, 91),
+('Emens', 'Demand Response', 7, 92),
+('Burkhardt', 'Demand Response', 8, 93),
+('Ball Comm', 'Demand Response', 9, 94),
+('Ball Gym', 'Demand Response', 10, 95),
+('Bracken Library', 'Demand Response', 11, 96),
+('Carmichael', 'Demand Response', 12, 97),
+('Cooper', 'Demand Response', 13, 98),
+('Child Study', 'Demand Response', 14, 99),
+('DeHority', 'Demand Response', 15, 100),
+('EB Ball Center', 'Demand Response', 16, 101),
+('Elliott Hall', 'Demand Response', 17, 102),
+('Elliott Dining', 'Demand Response', 18, 103),
+('Field Sports Bldg', 'Demand Response', 19, 104),
+('Fball Training Cntr', 'Demand Response', 20, 105),
+('Health Center', 'Demand Response', 21, 106),
+('Human Perf Lab', 'Demand Response', 22, 107),
+('Irving Gym', 'Demand Response', 23, 108),
+('Botswin Swinford', 'Demand Response', 24, 109),
+('Schmidt Wilson', 'Demand Response', 25, 110),
+('Kitselman Center', 'Demand Response', 26, 111),
+('LaFollette', 'Demand Response', 27, 112),
+('Letterman Bldg', 'Demand Response', 28, 113),
+('LewellenPool', 'Demand Response', 29, 114),
+('Lucina Hall', 'Demand Response', 30, 115),
+('Multicultural Cntr', 'Demand Response', 31, 116),
+('Music Instr Bldg', 'Demand Response', 32, 117),
+('Mck Pkg Garage', 'Demand Response', 33, 118),
+('EF Ball Med Cntr', 'Demand Response', 34, 119),
+('Hargreaves Music', 'Demand Response', 35, 120),
+('Noyer', 'Demand Response', 36, 121),
+('Emens Pkg Gar', 'Demand Response', 37, 122),
+('North Quad', 'Demand Response', 38, 123),
+('Police Dept', 'Demand Response', 39, 124),
+('Peace Conflict', 'Demand Response', 40, 125),
+('Pruis Hall', 'Demand Response', 41, 126),
+('Park Hall', 'Demand Response', 42, 127),
+('Robert Bell', 'Demand Response', 43, 128),
+('Student Rec Cntr', 'Demand Response', 44, 129),
+('Student Center', 'Demand Response', 45, 130),
+('Studebaker East', 'Demand Response', 46, 131),
+('SC Pkg Garage', 'Demand Response', 47, 132),
+('Scheidler Apts', 'Demand Response', 48, 133),
+('Stadium', 'Demand Response', 49, 134),
+('Service & Stores', 'Demand Response', 50, 135),
+('Studebaker West', 'Demand Response', 51, 136),
+('Teachers College', 'Demand Response', 52, 137),
+('Whitinger', 'Demand Response', 53, 138),
+('Woodworth', 'Demand Response', 54, 139),
+('West Quad', 'Demand Response', 55, 140),
+('Worthen Arena', 'Demand Response', 56, 141),
+('North', 'Test Loop', 2, 155),
+('South Stop', 'Test Loop', 3, 156),
+('Park', 'Test Loop', 1, 157),
+('Store', 'Test Loop', 4, 158),
+('north stop', 'Select a Loop', 0, 159),
+('north stop', 'Purple Loop', 2, 160),
+('South stop', 'Purple Loop', 1, 161),
+('park stop', 'Purple Loop', 3, 162);
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `users`
+--
+
+DROP TABLE IF EXISTS `users`;
+CREATE TABLE `users` (
+  `id` int(11) NOT NULL,
+  `firstname` varchar(256) NOT NULL,
+  `lastname` varchar(256) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- Dumping data for table `users`
+--
+
+INSERT INTO `users` (`id`, `firstname`, `lastname`) VALUES
+(3, 'Taylor', 'Slusherhhkhkhk'),
+(4, 'Taneia', 'Reed'),
+(5, 'Bruce', 'Piner'),
+(49, 'Keith', 'DeSimini'),
+(50, 'John', 'Stevens');
+
 --
 -- Indexes for dumped tables
 --
+
+--
+-- Indexes for table `buses`
+--
+ALTER TABLE `buses`
+  ADD PRIMARY KEY (`id`);
 
 --
 -- Indexes for table `Entries`
@@ -1118,14 +1336,56 @@ ALTER TABLE `Entries`
   ADD PRIMARY KEY (`id`);
 
 --
+-- Indexes for table `loops`
+--
+ALTER TABLE `loops`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `stops`
+--
+ALTER TABLE `stops`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `users`
+--
+ALTER TABLE `users`
+  ADD PRIMARY KEY (`id`);
+
+--
 -- AUTO_INCREMENT for dumped tables
 --
+
+--
+-- AUTO_INCREMENT for table `buses`
+--
+ALTER TABLE `buses`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT for table `Entries`
 --
 ALTER TABLE `Entries`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1326;
+
+--
+-- AUTO_INCREMENT for table `loops`
+--
+ALTER TABLE `loops`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=37;
+
+--
+-- AUTO_INCREMENT for table `stops`
+--
+ALTER TABLE `stops`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=163;
+
+--
+-- AUTO_INCREMENT for table `users`
+--
+ALTER TABLE `users`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=51;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

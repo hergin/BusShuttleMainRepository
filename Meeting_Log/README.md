@@ -1,4 +1,12 @@
-# Meeting Dates/Times - Reverse Chronological 
+# Meeting Dates/Times - Reverse Chronological
+
+## February 27th: 3:00pm to 4:22pm
+* Added Bus Identification to API
+* Added Bus Identification to table in database
+* Created Bus Identification management page in our desktop dashboard.
+* Discussed what needs to be done over spring break.
+* Assigned rolls for what needs to be done in iteration 3.
+* Created our release tags for iteration 2. 
 
 ## ITERATION 2 CLIENT MEETING: February 25th: 3:30pm to ...
 * We started the meeting with a demo of the Desktop Dashboard.
@@ -13,21 +21,20 @@
 * We disccussed the possibility of changing the location of the loops, drivers, and stops drop downs.
 * We discussed a change to the sign in system.
 * When signing in we may ask "Who are you?", "What loop are you on?", and then "What is your bus number?".
-
 * [Associated Files](#)
 
 ## February 20th: 4:00pm to 7:10pm
 * Pair programmed a good portion of the Desktop interface
 * Planned out a clean design for the desktop interface
 * Refactored and Restructured code for the Desktop Interface and Driver Interface
-* Prepared for meeting with the client on monday. 
+* Prepared for meeting with the client on monday.
 * Still working on a solution for generating reports for the client.
 
 ## February 18th: 11:00pm to 11:35pm
 * Decided on using Bootstrap for Desktop Interface.
 * Decided on breaking the Desktop system into pages.
 * Four initial pages: Managing stops, managing users, managing entries, managing loops.
-* Page assignment: Taylor: Loops Keith: Entries Taneia: Users. 
+* Page assignment: Taylor: Loops Keith: Entries Taneia: Users.
 * Stops will be decided as other pages are completed.
 * considering using JQueryTable edit.
 
@@ -51,8 +58,8 @@
 
 * Walked through our current source code to catch everyone up.
 * Discussed the Desktop Interface and what direction we should take it. We focused on usability and how intuitive it should be.
-* Shared information regarding development servers and backendless development. 
-* Discussed the importance of getting your own work done on time to ensure the entire team doesn't fail. 
+* Shared information regarding development servers and backendless development.
+* Discussed the importance of getting your own work done on time to ensure the entire team doesn't fail.
 
 ## February 6th: 4:00pm to 4:45pm
 
@@ -70,7 +77,7 @@
 
 
 ## January 22nd: 4:10pm to 5:45pm
-* Discussed the Student sympossium and any arrangements that might have to be made in order to attend. 
+* Discussed the Student sympossium and any arrangements that might have to be made in order to attend.
 * Worked on adding buttons to the Mobile-front end
 * Worked on adding a retry functionality to the form to compensate for unstable connections.
 * Started our powerpoint for thursday's presentation.
@@ -78,20 +85,20 @@
 
 ## January 16th: 4:00pm to 4:45pm
 * Discussed our current implementation with our professor. Decided to stick with Angular
-* Refactored and cleaned the source code repository to simplify group development. 
-* Database design prototype has been completed. Imported into a live mySQL server to test. 
-* Talked about our next steps regarding our meeting with Bruce and what we should be be delivering to him. 
+* Refactored and cleaned the source code repository to simplify group development.
+* Database design prototype has been completed. Imported into a live mySQL server to test.
+* Talked about our next steps regarding our meeting with Bruce and what we should be be delivering to him.
 * Uploaded a development [sql file](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/blob/master/Resources/Create_Database_Dev.sql) for very basic testing of Angular forms/rxJS.
 * Redesigned our HttpClient post request observable to make it less cluttered/ugly.
 
 ## January 6th: 3:00pm to 4:30pm
 * Start creating semester plan
-* Get reacquainted with what we need to do. 
+* Get reacquainted with what we need to do.
 * Talk about things we did over break.
 * Discuss Github and the milestones
-* Assigned our next step so we’re all on the same page. 
-* Discussed the workbox and the possibility of switching to a different technology. 
-* Roughly mapped out our new schema. We will update our current documentation to reflect the changes and improvements. 
+* Assigned our next step so we’re all on the same page.
+* Discussed the workbox and the possibility of switching to a different technology.
+* Roughly mapped out our new schema. We will update our current documentation to reflect the changes and improvements.
 
 ## December 6th: 1:30pm to 1:45pm
 * Brief in class discussion on what our next steps are.
@@ -130,55 +137,55 @@
 * We are going to do more research and tutorials for Angularjs before our next meeting.
 
 ## October 31st: 02:59pm to 3:57pm.
-* Showed Bruce the domain model and the assosiated files to go with it. 
+* Showed Bruce the domain model and the assosiated files to go with it.
 * We asked Bruce about the questions we had after our first meeting, to clear anything up.
-* Discussed the documentation that we have right now as well as anything we added/improved. 
-* Verified that the client didn't have any questions for us at this time. 
-* Continued researching ways to create a prograssive, offline application. 
+* Discussed the documentation that we have right now as well as anything we added/improved.
+* Verified that the client didn't have any questions for us at this time.
+* Continued researching ways to create a prograssive, offline application.
 * [Associated Files](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Team_Notes_and_Files/Oct_31st_Group_Meeting/)
 
 ## CLIENT MEETING: October 24th. 01:57pm to 3:20pm.
-* Showed Bruce the domain model and the assosiated files to go with it. 
+* Showed Bruce the domain model and the assosiated files to go with it.
 * We asked Bruce about the questions we had after our first meeting, to clear anything up.
-* Discussed the documentation that we have right now as well as anything we added/improved. 
-* Verified that the client didn't have any questions for us at this time. 
-* Continued researching ways to create a prograssive, offline application. 
+* Discussed the documentation that we have right now as well as anything we added/improved.
+* Verified that the client didn't have any questions for us at this time.
+* Continued researching ways to create a prograssive, offline application.
 
 ## October 16th: 06:00pm to 8:48pm.
 * Discussed and worked on Domain Modeling assignment.
-* Continued talking about React and concearns any of us had. 
+* Continued talking about React and concearns any of us had.
 
 ## October 13th: 06:03pm to 6:56pm.
-* We had an online meeting where we gathered all of our data for the previous assignment and put it together. 
-* We shared our experiences with the getting started tutorials for angular and react. 
+* We had an online meeting where we gathered all of our data for the previous assignment and put it together.
+* We shared our experiences with the getting started tutorials for angular and react.
 
 ## October 3rd: 02:00pm to 2:45pm.
-* Met with the professor regarding a few questions 
-* Spoke about switching from Angular to React. 
+* Met with the professor regarding a few questions
+* Spoke about switching from Angular to React.
 
 ## September 27th: 07:00pm to 7:48pm.
-* Discussed a few things that we need to ask the professor regarding IT and how we can access the database. 
-* Came up with a game plan to stay ahead of the game and finish our requirements documents by collaborating over the weekend. 
-* Discussed Angular once more and how we should all attempt the quickstart guide on the website to familiarize ourselves with how it works and how we might implement it in the future. 
-* Spoke about prototypes 
+* Discussed a few things that we need to ask the professor regarding IT and how we can access the database.
+* Came up with a game plan to stay ahead of the game and finish our requirements documents by collaborating over the weekend.
+* Discussed Angular once more and how we should all attempt the quickstart guide on the website to familiarize ourselves with how it works and how we might implement it in the future.
+* Spoke about prototypes
 * [Associated Files](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Team_Notes_and_Files/Sept%2027th%20Group%20Meeting)
 
 ## September 24th: 10:30am to 11:45am.
-* We discussed presentation material and made sure we can meet the criteria. 
-* Talked a little more about Angular and how it might help us to do some testing on our own before we dive into prototypes for the project. 
+* We discussed presentation material and made sure we can meet the criteria.
+* Talked a little more about Angular and how it might help us to do some testing on our own before we dive into prototypes for the project.
 * Came up with a few questions that we still need to ask our client about the project.
-* Drew some more sketches and uploaded the material to Github for future reference. 
+* Drew some more sketches and uploaded the material to Github for future reference.
 * [Associated Files](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Team_Notes_and_Files/Sept%2024th%20Group%20Meeting)
 
 ## CLIENT MEETING: September 19th. 2:30pm to 3:40pm.
-* The client first discussed what they wanted from the new system. They mentioned things about the previous attempt and even showed us the webpage that was used on the iPads in the buses. 
+* The client first discussed what they wanted from the new system. They mentioned things about the previous attempt and even showed us the webpage that was used on the iPads in the buses.
 * We asked the questions we had prepared for the meeting.
-* The client walked us through the process of inputting the data into excel spreadsheets to output the data in the format that they need. We witnessed first had how cumbersome the process can be. 
+* The client walked us through the process of inputting the data into excel spreadsheets to output the data in the format that they need. We witnessed first had how cumbersome the process can be.
 * We talked about the process of how we will gather data and proceed in iterations.
 * [Link to documents gathered from meeting](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Team_Notes_and_Files/Sept%2019th%20Client%20Meeting)
 
 ## September 18th: 1:15pm to 1:45pm.
-* Continued Brainstorming topics to bring up with the client. 
+* Continued Brainstorming topics to bring up with the client.
 * Got information about Angular and how it makes creating an online app that works offline possible
 * We were informed that this may be a tablet end-product and that it must work in said offline conditions
 * Drew a rough sketch of what we might bring to the client. We also discussed that he may already have some ideas about what it should look like since this project was done last year as well.
@@ -191,6 +198,6 @@
     *Update: Meeting time has been confirmed for Wed. Sept. 19th at 2:30pm
 
 ## September 11th: 1:00pm to 1:45pm.
-* We discussed what mode of communication might be the best for our group and decided Slack would be a good option. We brainstormed a few questions that we might be able to ask Bruce to get a better idea on what he needs exactly. 
+* We discussed what mode of communication might be the best for our group and decided Slack would be a good option. We brainstormed a few questions that we might be able to ask Bruce to get a better idea on what he needs exactly.
 * Gathered group availability
 * Scheduled another meeting before we sent the initial e-mail to our client

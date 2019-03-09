@@ -21,7 +21,7 @@
 * We disccussed the possibility of changing the location of the loops, drivers, and stops drop downs.
 * We discussed a change to the sign in system.
 * When signing in we may ask "Who are you?", "What loop are you on?", and then "What is your bus number?".
-* [Associated Files](#)
+* [Associated Files](../Team_Notes_and_Files/Feb_25th_Client_Meeting/)
 
 ## February 20th: 4:00pm to 7:10pm
 * Pair programmed a good portion of the Desktop interface

@@ -8,7 +8,7 @@
 * Assigned rolls for what needs to be done in iteration 3.
 * Created our release tags for iteration 2. 
 
-## ITERATION 2 CLIENT MEETING: February 25th: 3:30pm to ...
+## ITERATION 2 CLIENT MEETING: February 25th: 3:30pm to 4:40
 * We started the meeting with a demo of the Desktop Dashboard.
 * They really liked the simplicity of it.
 * While demoing, we found that editing an entry it resets the count to zero for that entry.

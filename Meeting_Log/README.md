@@ -1,12 +1,19 @@
 # Meeting Dates/Times - Reverse Chronological
 
+## March 13th: 4:00pm to 4:42pm
+* Decided to Move intro reports to its own page and updated sidebar
+* Distributed new tasks for the last iteration.
+* Tested and documented bugs in the driver app.
+* Discussed next meeting. 
+* Discussed student symposium and what we'll do for that.
+
 ## February 27th: 3:00pm to 4:22pm
 * Added Bus Identification to API
 * Added Bus Identification to table in database
 * Created Bus Identification management page in our desktop dashboard.
 * Discussed what needs to be done over spring break.
 * Assigned rolls for what needs to be done in iteration 3.
-* Created our release tags for iteration 2. 
+* Created our release tags for iteration 2.
 
 ## ITERATION 2 CLIENT MEETING: February 25th: 3:30pm to 4:40
 * We started the meeting with a demo of the Desktop Dashboard.

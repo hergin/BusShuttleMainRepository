@@ -33,6 +33,10 @@ Email: rbpiner@bsu.edu
 * Front-End Driver Interface [Release #2](https://github.com/kdesimini/ShuttleLogCollectionSystemSourceCode/releases/tag/v2.0.0)
 * Front-End Desktop Interface (Dekstop Dashboard) [Release #2](https://github.com/kdesimini/ShuttleLogCollectionSystemDesktopInterface/releases/tag/v2.0.0)
 * Back-End API [Release #2](https://github.com/kdesimini/ShuttleLogCollectionSystemAPI/releases/tag/2.0.0)
+---
+* Front-End Driver Interface [Release #3](https://github.com/kdesimini/ShuttleLogCollectionSystemSourceCode/releases/tag/v3.0.0)
+* Front-End Desktop Interface (Dekstop Dashboard) [Release #3](https://github.com/kdesimini/ShuttleLogCollectionSystemDesktopInterface/releases/tag/v3.0.0)
+* Back-End API [Release #3](https://github.com/kdesimini/ShuttleLogCollectionSystemAPI/releases/tag/v3.0.0)
 
 <h2>The Team</h2>
 

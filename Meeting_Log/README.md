@@ -1,5 +1,12 @@
 # Meeting Dates/Times - Reverse Chronological
 
+## ITERATION 3 CLIENT MEETING: March 25th: 3:30pm to 5:10pm
+* We started the meeting with a demo of the Driver interface highlighting changes.
+* We then gave a demonstration of the dashboard highlighting the new reports pages.
+* They brought a mobile hotspot that they will be using for testing purposes.
+* [Associated Files]()
+* 
+
 ## March 13th: 4:00pm to 4:42pm
 * Decided to Move intro reports to its own page and updated sidebar
 * Distributed new tasks for the last iteration.
@@ -15,7 +22,7 @@
 * Assigned rolls for what needs to be done in iteration 3.
 * Created our release tags for iteration 2.
 
-## ITERATION 2 CLIENT MEETING: February 25th: 3:30pm to 4:40
+## ITERATION 2 CLIENT MEETING: February 25th: 3:30pm to 4:40pm
 * We started the meeting with a demo of the Desktop Dashboard.
 * They really liked the simplicity of it.
 * While demoing, we found that editing an entry it resets the count to zero for that entry.

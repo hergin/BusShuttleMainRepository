@@ -1,11 +1,16 @@
 # Meeting Dates/Times - Reverse Chronological
 
+## April 3rd: 4:00pm to 4:15pm
+* Worked on Poster.
+* Discussed an issue that may be present with timestamps coming from the driver app. 
+* Talked about how we might deliver our product to the client (Direct files, links to repo, etc)
+* Got caught up on what still needs to be coded.
+
 ## ITERATION 3 CLIENT MEETING: March 25th: 3:30pm to 5:10pm
 * We started the meeting with a demo of the Driver interface highlighting changes.
 * We then gave a demonstration of the dashboard highlighting the new reports pages.
 * They brought a mobile hotspot that they will be using for testing purposes.
 * [Associated Files]()
-* 
 
 ## March 13th: 4:00pm to 4:42pm
 * Decided to Move intro reports to its own page and updated sidebar

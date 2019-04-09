@@ -1,5 +1,10 @@
 # Meeting Dates/Times - Reverse Chronological
 
+## April 9th: 10:15am to 10:30am
+* Discussed plan for sympossium.
+* Discussed refactoring and the current state of the project.  
+* Talked about the user manuals and what we should include. 
+
 ## April 3rd: 4:00pm to 4:15pm
 * Worked on Poster.
 * Discussed an issue that may be present with timestamps coming from the driver app. 

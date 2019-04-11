@@ -10,13 +10,7 @@
 * No one really had any questions about it.
 * Overall, the reactions were really good. People really liked the idea of using a lot less paper. It's much better for the environment. 
 * Dr. Largent mentioned the implications of automating people out of jobs, which we are essentially doing. 
-
-## April 3rd: 4:00pm to 4:15pm
-* Worked on Poster.
-* Discussed an issue that may be present with timestamps coming from the driver app. 
-* Talked about how we might deliver our product to the client (Direct files, links to repo, etc)
-* Got caught up on what still needs to be coded.
-## Names:
+#### Names:
 * Stephanie Simon-Dack
 * Katlin Morman
 * Rachel Clark
@@ -28,6 +22,13 @@
 * Aron Kageza (No Picture, requested we don't)
 * Alexander Thomas
 * [IMAGES OF EVERYONE](https://github.com/kdesimini/Bus-Shuttle-Log-Collection-System/tree/master/Resources/SymposiumPictures)
+
+## April 3rd: 4:00pm to 4:15pm
+* Worked on Poster.
+* Discussed an issue that may be present with timestamps coming from the driver app. 
+* Talked about how we might deliver our product to the client (Direct files, links to repo, etc)
+* Got caught up on what still needs to be coded.
+
 
 ## ITERATION 3 CLIENT MEETING: March 25th: 3:30pm to 5:10pm
 * We started the meeting with a demo of the Driver interface highlighting changes.

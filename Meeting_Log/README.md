@@ -3,7 +3,13 @@
 ## April 9th: 10:15am to 10:30am
 * Discussed plan for sympossium.
 * Discussed refactoring and the current state of the project.  
-* Talked about the user manuals and what we should include. 
+* Talked about the user manuals and what we should include.
+
+### SYMPOSIUM
+* Everyone thought it was pretty cool and and interesting idea. 
+* No one really had any questions about it.
+* Overall, the reactions were really good. People really liked the idea of using a lot less paper. It's much better for the environment. 
+* Dr. Largent mentioned the implications of automating people out of jobs, which we are essentially doing. 
 
 ## April 3rd: 4:00pm to 4:15pm
 * Worked on Poster.

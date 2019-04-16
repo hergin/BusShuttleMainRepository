@@ -1,6 +1,12 @@
 # Meeting Dates/Times - Reverse Chronological
 
 ## April 9th: 10:15am to 10:30am
+* We discussed the authentication system.
+* We discussed issues that transportation services is currently experiencing.  
+* Assigned more roles for refactoring. 
+* Tested everything to make sure it's all still functional. 
+
+## April 9th: 10:15am to 10:30am
 * Discussed plan for sympossium.
 * Discussed refactoring and the current state of the project.  
 * Talked about the user manuals and what we should include.

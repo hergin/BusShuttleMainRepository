@@ -1,6 +1,12 @@
 # Meeting Dates/Times - Reverse Chronological
 
-## April 9th: 10:15am to 10:30am
+## FINAL ITERATION CLIENT MEETING: April 22nd: 3:30pm to 4:30pm
+* We discussed some bugs that have occcured, and documented them.
+* Performed acceptance testing.
+* Discussed the acceptance testing of the driver system.
+* The client informed us that they are switching to cellular enabled iPads.
+
+## April 16th: 10:15am to 10:30am
 * We discussed the authentication system.
 * We discussed issues that transportation services is currently experiencing.  
 * Assigned more roles for refactoring. 

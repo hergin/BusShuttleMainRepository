@@ -45,57 +45,35 @@ Technical Constraints:
 Requirements
 ============
 
-Functional
-----------
-
-Driver:
-
--Set the amount of people getting on the bus
-
--"Sign on" at the start of their shift
-
--Select the stop
-
--Be alerted if the the information was pushed or not
-
--see a log for the day
-
--see if their information was pushed
-
--say if they left anyone behind
-
--must work with sporadic internet connection
-
-Desktop Standard User:
-
--view the information from the drivers
-
--view the information as it is updating
-
--filter information
-
--export information
-
-Desktop Admin User:
-
--add/edit/delete buses/loops/stops.
-
-Non-Functional:
+Functional and Non-Functional:
 ---------------
 
-Driver:
+Driver Requirements | Currently Exsisting 
+------------ | -------------
+Set the amount of people getting on the bus | Increment and deincerment buttons to count passengers
+"Sign on" at the start of their shift | Login screen for driver application
+Select the stop | Drop down bar to select stop and automatically switches to the next stop
+Be alerted if the the information was pushed or not | Error message notifying if data was not synced
+see a log for the day | Entries page on Desktop listing all data for the day
+see if their information was pushed | Sync button on configurations page showing if data still needs to be synced efore logging out
+say if anyone was left behind | Increment and deincrement buttons to count passengers left behind at stop
+must work with sporatic internet connection | Driver application holds data until reconnected to internet and must be synced before logging out of application. Mobile hotspots and cellular ipads are being placed into the busses to compensate for internet loss
+easy to use | Minimal interactions on driver application so driver isn't confused on how it is used
+not distracting | Simple 2-page application that limits driver usage and creates less distraction
+must be fast | Syncs data to desktop after 30 seconds in-between stops
 
--easy to use
 
--not distracting
+------------------------------------
 
--must be fast
+Desktop Requirements | Currently Exsisting 
+------------ | -------------
+view the information from the drivers | Entries page on desktop showing data from drivers
+view the information as it is being updated | Entries page on desktop showing data from drivers as it is being entered in
+filter information | Entries page can filter data by the date and the loop
+export information | Reports page on destop allowing admin to export an CSV file
+add/edit/delete buses/loops/stops | Add/Edit/Delete icons added to Stops/Loops/Users pages to change information on desktop
+easy to use | Simple Desktop User Interface allowing admins to easily navigate through different pages
 
-Desktop Standard User:
-
--easy to use
-
--the user interface must be be intuitive and easy to learn and use
 
 Assumptions:
 ============

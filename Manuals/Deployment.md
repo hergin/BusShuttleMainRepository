@@ -102,7 +102,7 @@ Password: H30fKk4d
 
 scp -r /PATH_TO_BUSLOG/dist/BusLog cs695test@bsu.edu@pbuslog01.aws.bsu.edu:/var/www/html/
 
-  
+
 
 ##### Starting the Apache Server
 
@@ -141,9 +141,12 @@ Our API is written in PHP so uploading it to our web-server is very easy. It jus
 Our Administrator Dashboard is written in PHP so uploading it to our web-server is also very easy.
 
 1.  Modify all Config.php files with the correct MySQL information
+
+2. Visit http://ulogin.sourceforge.net/usage.php to view how to configure ulogin. There are only a few parameters that need to be changed. 
     
-2.  Upload /BusLog folder to the web server root.
-    
+3. Upload /BusLog folder to the web server root.
+
+4. Use supplied database schema to build database. 
 
   
 

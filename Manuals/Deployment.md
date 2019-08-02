@@ -139,7 +139,7 @@ Our Administrator Dashboard is written in PHP so uploading it to our web-server 
     
 3. Upload the contents (with the config files set to the correct information) to a folder called `/dashboard` in the project root. If uploaded anywhere else or under any different name, it may require modification to a few pages in the admin dashboard. 
 
-4. Use supplied database schema to build database using the command line OR prefferably, through phpMyAdmin. You can find the schema with or without data [HERE](https://github.com/hergin/Bus-Shuttle-Log-Collection-System/tree/master/Resources) 
+4. Use supplied database schema to build database using the command line OR through phpMyAdmin. You can find the schema with or without data [HERE](https://github.com/hergin/Bus-Shuttle-Log-Collection-System/tree/master/Resources) 
 
 # Final Result
 If everything has gone correctly, this is how the server root should look. 

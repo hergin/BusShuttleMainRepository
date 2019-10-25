@@ -90,8 +90,6 @@ BSU Server MYSQL ACCESS
 
 Username: root
 
-Password: H30fKk4d
-
 ##### SCP Command for Mac
 ```
 $ scp -r /PATH_TO_BUSLOG/dist/BusLog cs695test@bsu.edu@pbuslog01.aws.bsu.edu:/var/www/html/

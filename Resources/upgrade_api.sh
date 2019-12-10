@@ -7,4 +7,4 @@ currentApiName=api$(date +"_%y%m%d_%I%M%S")
 mv api $currentApiName
 mv api_new/api api
 rm -rf api_new
-cp config-PROD.php api/config.php
+cp config-PROD-api.php api/config.php

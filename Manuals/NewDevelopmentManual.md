@@ -55,7 +55,7 @@
 ### Test the Development Environment
 
 *   Simply browse to <a href="http://localhost/BusShuttleManagerDashboard" target="_blank">http://localhost/BusShuttleManagerDashboard</a>
-*   Enter user name shuttle and password bus.
+*   Enter user name 'local' and password 'local'.
 *   You should see the following screen:
     *   ![dev_environment](pics/dev_environment.png)
 *   You can add a new driver in this screen.
@@ -98,3 +98,4 @@
 
 *   It will automatically open the following browser window. (If it doesn't, browse to <a href="http://localhost:4200" target="_blank">http://localhost:4200</a>
     *   ![driver_app](pics/driver_app.png)
+    *   Login using the same name and password as manager dashboard (local:local)

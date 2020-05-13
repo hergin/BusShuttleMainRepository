@@ -32,6 +32,7 @@
 
 *   Browse to **C:/xampp/htdocs** folder. (find the relevant folder under xampp installation in MAC)
 *   Clone the two repositories in that folder.
+    *  **If you will contribute, fork these repositories first and clone your copies.**
     *  <a href="https://github.com/hergin/BusShuttleManagerDashboard.git" target="_blank">https://github.com/hergin/BusShuttleManagerDashboard.git</a>
     *  <a href="https://github.com/hergin/BusShuttleAPI.git" target="_blank">https://github.com/hergin/BusShuttleAPI.git</a>
 *   You can do it via command line (or choose your own way of cloning a repository, NOT DOWNLOADING).  
@@ -73,6 +74,7 @@
 ### Clone Repository
 
 *   Clone this repository anywhere you want:
+    *  **If you will contribute, fork these repositories first and clone your copies.**
     *   <a href="https://github.com/hergin/BusShuttleDriverApp.git" target="_blank">https://github.com/hergin/BusShuttleDriverApp.git</a>
     *   Check above sections to do it from command line.
 *   Open the folder after cloning in the command line.
@@ -99,3 +101,23 @@
 *   It will automatically open the following browser window. (If it doesn't, browse to <a href="http://localhost:4200" target="_blank">http://localhost:4200</a>
     *   ![driver_app](pics/driver_app.png)
     *   Login using the same name and password as manager dashboard (local:local)
+    
+## Test the App (Simple integration testing)
+
+* Go to manager dashboard (<a href="http://localhost/BusShuttleManagerDashboard" target="_blank">http://localhost/BusShuttleManagerDashboard</a>) and add:
+  * A new driver in the Drivers page
+  * A new bus in the Buses page
+  * A new loop in the Loops page
+  * A new stop in the Stops page
+  * A new inspection item in the Inspection Items page
+  * Assign the newly created stop to the newly created loop in Routes page
+* Go to driver app (<a href="http://localhost:4200" target="_blank">http://localhost:4200</a>) and login and select these new driver, bus and loop.
+  * Add some mileage information and check the inspection item.
+  * Add some boarded and left behind.
+  * Click Submit
+  * Click Sign Off and Do Post Inspection
+  * Check the inspection item and add some mileage information.
+  * Click Finish
+* Go to manager dashboard entries page (<a href="http://localhost/BusShuttleManagerDashboard/Pages/Entries.php" target="_blank">http://localhost/BusShuttleManagerDashboard/Pages/Entries.php</a>).
+  * Select today and select the newly created loop.
+  * If you see the entry you have created in this page, everything seems to be properly working.

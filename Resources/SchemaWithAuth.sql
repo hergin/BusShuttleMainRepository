@@ -192,12 +192,14 @@ CREATE TABLE `inspection_report` (
   `bus_identifier` int(11) DEFAULT NULL,
   `t_stamp` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
   `date_added` date DEFAULT NULL,
-  `beginning_hours` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
-  `ending_hours` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  `beginning_hours` int(11) NOT NULL,
+  `ending_hours` int(11) NOT NULL,
   `starting_mileage` int(11) DEFAULT NULL,
   `ending_mileage` int(11) DEFAULT NULL,
   `pre_trip_inspection` varchar(255) CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL DEFAULT '0',
   `post_trip_inspection` varchar(255) CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL DEFAULT '0',
+  `pre_comment` varchar(255) CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL,
+  `post_comment` varchar(255) CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL,
   `is_deleted` bit(1) DEFAULT b'0'
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 

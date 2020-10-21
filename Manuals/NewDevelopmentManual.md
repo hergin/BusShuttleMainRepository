@@ -100,7 +100,7 @@
 
 *   It will automatically open the following browser window. (If it doesn't, browse to <a href="http://localhost:4200" target="_blank">http://localhost:4200</a>
     *   ![driver_app](pics/driver_app.png)
-    *   Login using the same name and password as manager dashboard (local:local)
+    *   Login using the name and password (user name: `shuttle`, password: `bus`)
     
 ## Test the App (Simple integration testing)
 

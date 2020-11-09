@@ -90,6 +90,9 @@
 
 ### Run the App
 
+*   If you have a different link for the API than the following, change it in the file (**BusShuttleDriverApp/src/environments/environment.ts**):
+    *   ![angular_config](pics/angular-path-var.png)
+    
 *   Run the app by running the command below.
     *   <pre>ng serve --open</pre>
 

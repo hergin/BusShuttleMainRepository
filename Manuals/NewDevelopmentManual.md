@@ -87,6 +87,7 @@
     *   <pre>npm install</pre>
 
     *   This might take some time.
+    *   If you receive python2 related errors at any point, try this: https://stackoverflow.com/a/61482605
 
 ### Run the App
 

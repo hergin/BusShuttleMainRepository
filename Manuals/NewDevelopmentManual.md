@@ -11,7 +11,7 @@
 
 ### Create DB Tables
 
-*   Browse to <a href="http://localhost/phpMyAdmin/" target="_blank">http://localhost/phpMyAdmin/</a>
+*   Browse to <a href="http://localhost/phpmyadmin/" target="_blank">http://localhost/phpmyadmin/</a>
     *   Default username should be **root** without a password if asked.
 *   Create a database by using the new button on top-left.
     *   ![new_db](pics/new_db.png)

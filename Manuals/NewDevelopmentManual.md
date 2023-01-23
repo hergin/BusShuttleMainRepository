@@ -48,7 +48,7 @@
 ### Updating Paths and Variables for Local
 
 *   <span style="font-family: sans-serif; font-size: 1rem;">If you kept everything default (like the names of repositories while cloning, installation folder of xampp, DB user name and password), you wouldn't need to change the following config files.</span>
-*   <span style="font-family: sans-serif; font-size: 1rem;">Here is the content of the **config.php** in the **BusShuttleManagerDashboard** folder. You should update the necessary items that need to change.</span>
+*   <span style="font-family: sans-serif; font-size: 1rem;">Here is the content of the **config.php** in the **BusShuttleManagerDashboard** folder. You should update the necessary items that need to change. **Especially check the location of the htdocs folder.**</span>
     *   <span style="font-family: sans-serif; font-size: 1rem;">![config_in_dashboard](pics/config_dashboard.png)</span>
 *   <span style="font-family: sans-serif; font-size: 1rem;">Here is the content of the **config.php** file in **BusShuttleAPI/api** folder. You should update the necessary items that need to change.</span>
     *   <span style="font-family: sans-serif; font-size: 1rem;">![config_in_API](pics/config_api.png)</span>

@@ -68,6 +68,8 @@ CREATE TABLE `loops` (
 CREATE TABLE `stops` (
   `id` int(11) NOT NULL,
   `stops` varchar(255) DEFAULT NULL,
+  `Longitude` decimal(25,15) DEFAULT NULL,
+  `Latitude` decimal(25,15) DEFAULT NULL,
   `is_deleted` bit(1) DEFAULT b'0'
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
@@ -192,8 +194,8 @@ CREATE TABLE `inspection_report` (
   `bus_identifier` int(11) DEFAULT NULL,
   `t_stamp` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
   `date_added` date DEFAULT NULL,
-  `beginning_hours` int(11) NOT NULL,
-  `ending_hours` int(11) NOT NULL,
+  `beginning_hours` time NOT NULL,
+  `ending_hours` time NOT NULL,
   `starting_mileage` int(11) DEFAULT NULL,
   `ending_mileage` int(11) DEFAULT NULL,
   `pre_trip_inspection` varchar(255) CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL DEFAULT '0',
